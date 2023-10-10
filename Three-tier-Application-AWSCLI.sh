@@ -5,8 +5,7 @@
 # Date: 10-10-2023
 
 # This is simple 3 Tier application created using AWS CLI
-# Usage: Before running the script install and configure AWS CLI within the EC2 Instance
-
+# Usage: Before running the script install and configure AWS CLI
 
 # Create a VPC
 
